@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cesarvm94
-- 👀 I’m interested in Python, C, Machine Learning and SQL.
+- 👀 I’m interested in Python, C, Java, Machine Learning and SQL.
 - 🌱 I’m currently learning Statistics
 - 💞️ I’m looking to collaborate on Machine Learning Proyects
 - 📫 How to reach me at cesarvilla9421@gmail.com
